@@ -8,3 +8,22 @@ We have created the a simple face detection software using Open Cv using Haar cl
 We hope to improve this stripped down verison into  a more flexible version for other users.
 
 
+Agenda for this project:-
+_______________________
+
+
+	1) We made an intentional stripped down version , for other to improve
+
+	The Installation env:
+http://opencv.willowgarage.com/wiki/
+http://varuagdiary.blogspot.in/2011/09/installing-opencv-23-on-ubuntu-1104.html
+	
+
+	2) We hope to add GUI to this program
+
+
+
+	3) Add Recognition feature.
+
+
+
