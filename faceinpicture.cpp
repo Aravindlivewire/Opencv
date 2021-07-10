@@ -144,3 +144,5 @@ void detectAndDraw( Mat& img,
 
     cv::imshow( "result", img );
 }
+
+//new to github
